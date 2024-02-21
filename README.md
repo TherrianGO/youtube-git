@@ -9,3 +9,4 @@
 7- git commit --amend [puedes modificar el nombre del ultimo commit, para cambiar el texto presiona i y cuando se termine se da ESC luego se pone :wq! para salir inmediatamente]
 8- git checkout -b [nombre de nueba rama]
 9- git checkout master
+10- git branch -d [nombre de la rama a eliminar]

@@ -10,3 +10,5 @@
 8. git checkout -b [nombre de nueba rama]
 9. git checkout master
 10. git branch -d [nombre de la rama a eliminar]
+11. git push
+12. git commit -am
